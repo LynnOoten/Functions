@@ -2,7 +2,7 @@
   "files_list": [
     {
       "function_name": "testing_function_tng",
-      "function_file_path": "sample_functions/testing_function_tng.py"
+      "function_file_path": "Functions/sample_functions/testing_function_tng.py"
     }  
   ]
 }
