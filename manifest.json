@@ -1,8 +1,8 @@
 {
   "files_list": [
     {
-      "function_name": "testing_function",
-      "function_file_path": "Sample Functions/testing_function.py"
+      "function_name": "testing_function_tng",
+      "function_file_path": "sample_functions/testing_function_tng.py"
     }  
   ]
 }
