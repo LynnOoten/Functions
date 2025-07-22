@@ -1,7 +1,7 @@
 {
   "files_list": [
     {
-      "functions": "testing_function",
+      "function_name": "testing_function",
       "function_file_path": "functions/testing_function.py"
     }  
   ]
