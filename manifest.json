@@ -3,10 +3,7 @@
     {
       "function_name": "testing_functions1.py",
       "function_file_path": "sample_functions/testing_functions1.py"
-    },
-    {
-      "function_name": "testing_functions2.py",
-      "function_file_path": "sample_functions/testing_functions2.txt"
+    
     }
       
   ]
